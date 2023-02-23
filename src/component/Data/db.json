@@ -20,6 +20,13 @@
       "contact": "7015754439",
       "password": "123456789",
       "id": 3
+    },
+    {
+      "name": "Chander bhan",
+      "email": "chanderbhan.mahor@gmail.com",
+      "contact": "7015754439",
+      "password": "123456789",
+      "id": 4
     }
   ]
 }
