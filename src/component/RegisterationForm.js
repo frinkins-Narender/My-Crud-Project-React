@@ -2,7 +2,7 @@ import axios from "axios";
 import React, { useState } from "react";
 import "./style.css";
 
-const RegisterationForm = () => {
+const RegisterationForm = ({setToggle}) => {
   const initialData = {
     name: "",
     email: "",
@@ -35,6 +35,7 @@ const RegisterationForm = () => {
     console.log("subbmitted form")
     axios.post("http://localhost:3200/student", registrationData).then((res)=> {
        console.log(res)
+       setToggle(false)
     }).catch((error)=> {
       console.log(error)
     });

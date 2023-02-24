@@ -1,11 +1,13 @@
 import React from 'react'
 import './App.css';
-import RegisterationForm from './component/RegisterationForm';
+import RegistrationData from './component/RegistrationData';
 
 const App = () => {
   return (
     <>
-     <RegisterationForm/>
+    <RegistrationData/>
+     {/* <RegisterationForm/> */}
+     
     </>
   )
 }

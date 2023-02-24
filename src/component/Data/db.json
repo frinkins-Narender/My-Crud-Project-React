@@ -2,31 +2,52 @@
   "student": [
     {
       "name": "Narender",
-      "email": "jhfjksdhfjksdfhkjsdf",
-      "contact": "jkhdkfhskdfhksdf",
-      "password": "jhjskshfkjdsf",
+      "email": "narender.mahor46@gmail.com",
+      "contact": "8384080856",
+      "password": "123456",
       "id": 1
     },
     {
-      "name": "Narender",
-      "email": "narender.mahor46@gmail.com",
-      "contact": "8384080856",
+      "name": "chander bhan",
+      "email": "chanderbhan.mahor@gmail.com",
+      "contact": "7015754439",
       "password": "123456",
       "id": 2
     },
     {
-      "name": "Chander bhan",
-      "email": "chanderbhan.mahor@gmail.com",
-      "contact": "7015754439",
+      "name": "manoj",
+      "email": "manoj@gmail.com",
+      "contact": "123456",
       "password": "123456789",
       "id": 3
     },
     {
-      "name": "Chander bhan",
-      "email": "chanderbhan.mahor@gmail.com",
-      "contact": "7015754439",
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "contact": "13456789",
       "password": "123456789",
       "id": 4
+    },
+    {
+      "name": "Deepanshu",
+      "email": "deepanshu@gmail.com",
+      "contact": "123456",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "sachin",
+      "email": "sachin@gmail.com",
+      "contact": "123456789",
+      "password": "123456789",
+      "id": 6
+    },
+    {
+      "name": "chetan",
+      "email": "chetan@gmail.com",
+      "contact": "123456",
+      "password": "123456789",
+      "id": 7
     }
   ]
 }

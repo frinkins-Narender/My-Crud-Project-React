@@ -272,7 +272,7 @@ form input[type="submit"] {
     left: 90%;
     width: 160px;
     height: 160px;
-    animation-delay: 11s;
+    animation-delay: 1s;
 }
 
 @keyframes square {
@@ -292,11 +292,6 @@ form input[type="submit"] {
       transform: translateY(-700px) rotate(600deg);
     }
   }
-
-  div {
-    color: #ff0000;
-    margin-bottom: 6px;
-}
 
 
 
